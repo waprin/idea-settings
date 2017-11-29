@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'java-docs-samples'" />
+    <option name="defaultScopeName" value="Project 'java-docs-samples'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'java-docs-samples'" />
+  </component>
+</application>
