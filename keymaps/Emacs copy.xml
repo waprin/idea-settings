@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="shift minus" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="minus" />
   </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="escape" />
+  </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="shift equals" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="shift add" />
@@ -29,8 +32,12 @@
     <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="alt g" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="period" />
+    <keyboard-shortcut first-keystroke="alt period" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl g" />
   </action>
   <action id="Macro.save_and_optimize">
