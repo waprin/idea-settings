@@ -1,4 +1,8 @@
 <keymap version="1" name="Emacs copy 1" parent="Emacs">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl c" />
+  </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt b" />
