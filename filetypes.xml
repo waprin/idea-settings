@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="html" type="HTML" />
       <mapping pattern="final" type="PLAIN_TEXT" />
+      <mapping ext="html" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
