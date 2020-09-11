@@ -18,6 +18,9 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="shift add" />
+  </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt b" />
