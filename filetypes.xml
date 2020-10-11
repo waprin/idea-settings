@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="getting-going-writing" type="PLAIN_TEXT" />
       <mapping pattern=".env.rc" type="PLAIN_TEXT" />
+      <mapping pattern="2020-10-11-gopher-ball" type="PLAIN_TEXT" />
       <mapping pattern="final" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
