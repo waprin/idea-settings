@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <JSCodeStyleSettings>
+    <option name="JSX_ATTRIBUTE_VALUE" value="None" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="go">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
